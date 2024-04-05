@@ -1,5 +1,5 @@
 # flux-of-a-luminous-disc
-Equation governing the flux experienced by a zero dimensional observer positioned on the line running perpendicular to the center of a luminous two dimensional disc:
+Equation governing the flux experienced by an observer of negligible size positioned on the line running perpendicular to the center of a luminous two dimensional disc:
 
 $$ F = \frac{L}{4 \pi R^2} * \ln{\left(\frac{R^2}{D^2} + 1\right)} $$
 
