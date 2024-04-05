@@ -16,7 +16,7 @@ def get_flux_disc(
   R: float  # Radius of the disc
 ):
 
-  # Flux of a point
+  # Flux of a point, prevents divide by zero error when H == 0
   if R == 0:
     return L / (4 * math.pi * (D**2))
 
