@@ -1,7 +1,9 @@
 # flux-of-a-luminous-disc
 Equation governing the flux experienced by a zero dimensional observer positioned on the line running perpendicular to the center of a luminous two dimensional disc:
 
-$$ F = \frac{L}{4 \pi R^2} * \ln{\left(\frac{R}{D} + 1\right)} $$
+$$ F = \frac{L}{4 \pi R^2} * \ln{\left(\frac{R^2}{D^2} + 1\right)} $$
+
+Where $F$ is the flux experienced by the observer, $L$ is the luminosity of the disc, $R$ is the radius of the disc, and $D$ is the distance between the center of the disc and the observer.
 
 ## Python Code
 
