@@ -11,8 +11,8 @@ Where $F$ is the flux experienced by the observer, $L$ is the luminosity of the 
 import math
 
 def get_flux_disc(
-  L: float, # Total luminosity of the rod
-  D: float, # Distance of the observer from the center of the rod
+  L: float, # Total luminosity of the disc
+  D: float, # Distance of the observer from the center of the disc
   R: float  # Radius of the disc
 ):
 
